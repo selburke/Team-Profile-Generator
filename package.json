@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Homework 10",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selburke/Team-Profile-Generator.git"
+  },
+  "author": "Selma Burke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selburke/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/selburke/Team-Profile-Generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.0",
+    "jest": "^27.0.3"
+  }
+}
